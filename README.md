@@ -1,30 +1,30 @@
-<h1 align="center">Xin chào, mình là TaZek244</h1>
+<h1 align="center">Hi, I'm Tuan Anh (TaZek)</h1>
 
 <p align="center">
   <img src="assets/Encore.gif" width="160" alt="Encore" />
 </p>
 
 <p align="center">
-  Tốt nghiệp ngành <b>An toàn thông tin</b> · Theo hướng <b>AI Security</b> & <b>Red Team</b>
+  <b>Information Security</b> graduate · Focused on <b>AI Security</b> & <b>Red Teaming</b>
 </p>
 
 ---
 
-### Về mình
+### About me
 
-- Đã tốt nghiệp ngành an toàn thông tin, hiện tập trung vào **Security in AI**: tấn công và phòng thủ mô hình ML, ứng dụng LLM
-- Mục tiêu dài hạn: theo con đường **Red Team**
-- Thích "vibe-code" các app nhỏ phục vụ nhu cầu cá nhân
+- Graduated in Information Security, now focusing on **Security in AI**: attacking and defending ML models and LLM applications
+- Long-term goal: a career in **Red Teaming**
+- I enjoy vibe-coding small apps for personal use
 
-### Đang tìm hiểu
+### Currently exploring
 
-| Mảng | Nội dung |
+| Area | Topics |
 |---|---|
-| LLM Security | Prompt injection, jailbreak, data leakage, OWASP Top 10 for LLM Applications |
+| LLM Security | Prompt injection, jailbreaks, data leakage, OWASP Top 10 for LLM Applications |
 | Adversarial ML | Evasion, poisoning, model extraction |
 | Frameworks | MITRE ATLAS, NIST AI RMF |
 
-### Công cụ
+### Tools
 
 Arch Linux · Bash · Python · Kotlin · Git
 
@@ -36,4 +36,4 @@ Arch Linux · Bash · Python · Kotlin · Git
 
 ---
 
-<p align="center"><i>"Hiểu cách phá để biết cách giữ."</i></p>
+<p align="center"><i>"Know how to break it to know how to protect it."</i></p>
