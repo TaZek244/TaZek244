@@ -10,6 +10,8 @@
 
 ---
 
+> [For more about me in here]{https://tuananh-portfolio-kappa.vercel.app/projects/portfolio}
+
 ### About me
 
 - Graduated in Information Security, now focusing on **Security in AI**: attacking and defending ML models and LLM applications
