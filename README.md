@@ -10,7 +10,7 @@
 
 ---
 
-> [For more about me in here]{https://tuananh-portfolio-kappa.vercel.app/projects/portfolio}
+> [For more about me in here](https://tuananh-portfolio-kappa.vercel.app/projects/portfolio)
 
 ### About me
 
