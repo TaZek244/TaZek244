@@ -10,13 +10,12 @@
 
 ---
 
-> [For more about me in here](https://tuananh-portfolio-kappa.vercel.app/projects/portfolio)
-
 ### About me
 
 - Graduated in Information Security, now focusing on **Security in AI**: attacking and defending ML models and LLM applications
 - Long-term goal: a career in **Red Teaming**
 - I enjoy vibe-coding small apps for personal use
+- [More about me in here](https://tuananh-portfolio-kappa.vercel.app/en/about)
 
 ### Currently exploring
 
