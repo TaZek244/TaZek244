@@ -17,6 +17,28 @@
 - I enjoy vibe-coding small apps for personal use
 - [More about me in here](https://tuananh-portfolio-kappa.vercel.app/en/about)
 
+### Featured projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4 align="center"><a href="https://github.com/TaZek244/kafka-hyprland-dotfiles">Kafka Hyprland Dotfiles</a></h4>
+      <p align="center">Hyprland desktop themed after Kafka (Honkai: Star Rail): flat and pixel "RPG HUD" themes, control-center popups, one-command installer.</p>
+      <p align="center"><code>Hyprland</code> <code>Lua</code> <code>Python</code> <code>Bash</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center"><a href="https://github.com/TaZek244/grub-theme-3os">Triboot</a></h4>
+      <p align="center">Boot menus for an Arch · Windows · Ubuntu triple-boot: UEFI menus in plain C, pixel GRUB theme, Plymouth splash.</p>
+      <p align="center"><code>C / UEFI</code> <code>GRUB</code> <code>Plymouth</code> <code>Python</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center"><a href="https://github.com/TaZek244/pc-health-watch">pc-health-watch</a></h4>
+      <p align="center">Warns before a Linux machine freezes and keeps a black box to explain what happened after a hard reset.</p>
+      <p align="center"><code>Python</code> <code>systemd</code> <code>PSI</code> <code>SMART</code></p>
+    </td>
+  </tr>
+</table>
+
 ### Currently exploring
 
 | Area | Topics |
